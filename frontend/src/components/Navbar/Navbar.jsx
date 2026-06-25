@@ -2,6 +2,7 @@ import React, { useState, useContext } from 'react'
 import './Navbar.css'
 import { assets } from '../../assets/assets'
 import logo from '../../assets/logo.png'
+import headerImg from './assets/header-img.png'
 import { Link } from 'react-router-dom'
 import { StoreContext } from '../../context/StoreContext'
 
